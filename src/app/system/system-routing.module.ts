@@ -18,7 +18,7 @@ const systemRoutes: Routes = [
     { path: "addbranch", component: AddBranchComponent },
     { path: "dashboard", component: DashboardComponent },
     { path: "profile", component: ProfileComponent },
-    { path: "product", component: ProductComponent },
+    { path: "products", component: ProductComponent },
     { path: "addproduct", component: AddProductComponent },
     { path: "statistics", component: StatisticsComponent },
     {
